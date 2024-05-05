@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571140693827",
+    "project_id": "livestreamapplication-17409",
+    "storage_bucket": "livestreamapplication-17409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571140693827:android:807d37dbd5b759a69719f6",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmt7RTFzMA2AYiGWJPkG0S5j6gUPCADM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
